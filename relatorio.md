@@ -8,32 +8,35 @@
 ---
 
 ## 🧠 ATIVIDADE PROPOSTA
-**Ensino de informática básica para pessoas com deficiência auditiva ou surdez.**
+**Apresentação de braço robótico com Arduino**
 
 ---
 
 ## 🎯 OBJETIVO DA ATIVIDADE
-Proporcionar inclusão digital para pessoas com deficiência auditiva ou surdez, considerando as dificuldades tanto na comunicação quanto na aprendizagem. Muitas vezes esse público encontra barreiras por conta de técnicas de ensino voltadas a ouvintes.
+Estimular o interesse dos alunos pela tecnologia e pela robótica, por meio da demonstração prática de um braço mecânico funcional. A atividade visa despertar a curiosidade e introduzir conceitos básicos de automação e programação de forma lúdica e acessível.
 
 ---
 
 ## 🛠️ RECURSOS UTILIZADOS
-- Laboratório de informática com acesso à internet  
-- Mentimeter ou Kahoot!  
-- Projetor  
-- Airduino
+● Arduino UNO
+● Servo motores
+● Protoboard e jumpers
+● Fonte de energia
+● Notebook com IDE Arduino
+● Projetor
+● Papel e lápis para anotações
 
 ---
 
 ## 📚 DESENVOLVIMENTO
-1. O grupo elaborou previamente uma apresentação no Mentimeter ou Kahoot! com atividades interativas.  
-2. No laboratório, os participantes responderam às perguntas acessando as plataformas.  
-3. Com o apoio da intérprete de Libras, explicações foram fornecidas e conceitos de informática ensinados.
+1. A equipe monta o braço robótico previamente, programado para realizar movimentos simples como pegar e soltar objetos.
+2. Durante a oficina, os alunos observam a montagem e o funcionamento do braço em tempo real, com explicações sobre cada componente e suas funções.
+3. É promovida uma breve interação onde os alunos podem sugerir movimentos e observar o código responsável por isso.
 
 ---
 
 ## ✅ RESULTADOS (AVANÇOS E DIFICULDADES)
-A oficina contou com a presença de alunos com idades entre 12 e 65 anos. Apesar das dificuldades iniciais de comunicação, superaram barreiras com ajuda da intérprete. Houve grande interesse por parte dos participantes, que demonstraram satisfação e engajamento com a atividade.
+A oficina teve a participação ativa dos estudantes da Escola Municipal Doutor Tarso de Coimbra. Foi observado grande interesse pelos componentes eletrônicos e pela lógica de programação. Apesar das limitações de tempo para experimentações individuais, a curiosidade despertada e os comentários positivos indicam que a experiência foi enriquecedora. Muitos alunos demonstraram vontade de aprender mais sobre Arduino e robótica.
 
 ---
 
@@ -45,4 +48,6 @@ A oficina contou com a presença de alunos com idades entre 12 e 65 anos. Apesar
 ---
 
 ## 📎 MATERIAL DESENVOLVIDO
-> *(Adicionar aqui links, prints ou descrições dos materiais interativos como Kahoot ou Mentimeter utilizados.)*
+> *● Código-fonte do Arduino utilizado
+● Foto da montagem do braço robótico
+● Slides de explicação dos componentes*
