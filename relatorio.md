@@ -1,11 +1,10 @@
 # ICEI / CIÊNCIA DA COMPUTAÇÃO - CAMPUS POÇOS DE CALDAS  
 ## REGISTRO E MONITORAMENTO DAS PRÁTICAS DE EXTENSÃO
 
-**Disciplina / turno:** Seminários II / noite  
+**Disciplina / turno:** Seminários III / manhã 
 **Comunidade atendida:** Centro Municipal de Ensino Especializado Dr. Tarso de Coimbra  
-**Data/hora da oficina:** 17/06/2025 - 14:00  
-**Grupo:** Aluno 1 (2º período), Aluno 2 (2º período)
-
+**Data/hora da oficina:** 02/07/2025 - 15:00  
+**Grupo:** Otávio Bruno, Luis Bordin, Angelo Henrique.
 ---
 
 ## 🧠 ATIVIDADE PROPOSTA
@@ -22,8 +21,7 @@ Proporcionar inclusão digital para pessoas com deficiência auditiva ou surdez,
 - Laboratório de informática com acesso à internet  
 - Mentimeter ou Kahoot!  
 - Projetor  
-- Papel  
-- Lápis
+- Airduino
 
 ---
 
