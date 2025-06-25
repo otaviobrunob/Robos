@@ -36,7 +36,7 @@ Estimular o interesse dos alunos pela tecnologia e pela robótica, por meio da d
 ---
 
 ## ✅ RESULTADOS (AVANÇOS E DIFICULDADES)
-A oficina teve a participação ativa dos estudantes da Escola Municipal Doutor Tarso de Coimbra. Foi observado grande interesse pelos componentes eletrônicos e pela lógica de programação. Apesar das limitações de tempo para experimentações individuais, a curiosidade despertada e os comentários positivos indicam que a experiência foi enriquecedora. Muitos alunos demonstraram vontade de aprender mais sobre Arduino e robótica.
+Resultado ainda a ser realizado.
 
 ---
 
