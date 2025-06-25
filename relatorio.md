@@ -2,6 +2,7 @@
 ## REGISTRO E MONITORAMENTO DAS PRÁTICAS DE EXTENSÃO
 
 **Disciplina / turno:** Seminários III / manhã 
+
 **Comunidade atendida:** Centro Municipal de Ensino Especializado Dr. Tarso de Coimbra  
 **Data/hora da oficina:** 02/07/2025 - 15:00  
 **Grupo:** Otávio Bruno, Luis Bordin, Angelo Henrique.
