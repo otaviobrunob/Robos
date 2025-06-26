@@ -42,9 +42,9 @@ Resultado ainda a ser realizado.
 ---
 
 ## 📷 FOTOS
-| Foto 1 - Turma reunida | Foto 2 - Alunos no laboratório |
+| Braço Mecânico         | Foto 2 - Alunos no laboratório |
 |------------------------|-------------------------------|
-| ![Turma](fotos/turma.jpg) | ![Laboratório](fotos/laboratorio.jpg) |
+| ![Turma](fotos/braço.jpg) | ![Laboratório](fotos/turma.jpg) |
 
 ---
 
