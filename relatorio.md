@@ -44,7 +44,7 @@ Resultado ainda a ser realizado.
 ## 📷 FOTOS
 | Braço Mecânico         | Foto 2 - Alunos no laboratório |
 |------------------------|-------------------------------|
-| ![Turma](fotos/braço.jpg) | ![Laboratório](fotos/turma.jpg) |
+| ![Imagem 1](fotos/braço.jpg) | ![Imagem 2](fotos/turma.jpg) |
 
 ---
 
