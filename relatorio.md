@@ -51,7 +51,7 @@ Resultado ainda a ser realizado.
 ## 📎 MATERIAL DESENVOLVIDO
 > *● Código-fonte do Arduino utilizado*
 
-> #define potGarra        0           // porta A0 Joystick esquerda POT X
+#define potGarra        0           // porta A0 Joystick esquerda POT X
 #define potBase         1           // porta A1 Joystick esquerda POT Y 
 #define potAltura       2           // porta A2 Joystick direita  POT X
 #define potProfundidade 3           // porta A3 Joystick direita  POT Y 
@@ -155,5 +155,3 @@ void loop()
 
 }
 
-● Foto da montagem do braço robótico
-● Slides de explicação dos componentes
