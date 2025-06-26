@@ -53,4 +53,4 @@ A proposta consiste na demonstração de um **braço robótico funcional**, cont
 Poços de Caldas – MG  
 Data: 02/07/2025
 
----
+----
