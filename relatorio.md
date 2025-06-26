@@ -25,7 +25,7 @@ Estimular o interesse dos alunos pela tecnologia e pela robótica, por meio da d
 ● Fonte de energia
 ● Notebook com IDE Arduino
 ● Projetor
-● Papel e lápis para anotações
+● Papel e lápis para anotações.
 
 ---
 
@@ -42,7 +42,7 @@ Resultado ainda a ser realizado.
 ---
 
 ## 📷 FOTOS
-| Braço Mecânico         | Foto 2 - Alunos no laboratório |
+| Braço Mecânico         | Foto 2 - Alunos na Apresentação |
 |------------------------|-------------------------------|
 | ![Imagem 1](fotos/braço.jpg) | ![Imagem 2](fotos/turma.jpg) |
 
