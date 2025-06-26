@@ -41,27 +41,16 @@ A proposta consiste na demonstração de um **braço robótico funcional**, cont
 
 ---
 
-## 📸 Imagens do Projeto
-> (Adicione aqui imagens da apresentação, do braço robótico e do código sendo exibido em aula)
-
----
-
-## 📁 Material Complementar
-- Código-fonte do Arduino
-- Slides explicativos
-- Fotos e vídeos da apresentação
-
----
-
 ## ✍️ Autores
-- Aluno 1 – Ciência da Computação – PUC Minas
-- Aluno 2 – Ciência da Computação – PUC Minas
+- Luis Bordin – Ciência da Computação – PUC Minas
+- Otávio Bruno – Ciência da Computação – PUC Minas
+- Angelo Henrique – Ciência da Computação – PUC Minas
 
 ---
 
 ## 📍 Local da Apresentação
 **Escola Municipal Doutor Tarso de Coimbra**  
 Poços de Caldas – MG  
-Data: [inserir data da apresentação]
+Data: 02/07/2025
 
 ---
